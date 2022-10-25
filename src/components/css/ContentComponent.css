@@ -1,0 +1,15 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+    height:300px;
+    background-color: aquamarine;
+}
+.tbl,tr,th,td{
+ border:2px solid teal;
+}
+.tbl{
+    width:500px;
+}
